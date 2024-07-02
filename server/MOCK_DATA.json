@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Vijay",
+    "last_name": "Kumar",
+    "email": "vijay@gmail.com",
+    "gender": "Male",
+    "university": "RVSCET"
+  },
+  {
+    "id": 2,
+    "first_name": "sanjana",
+    "last_name": "Mahlotra",
+    "email": "sanjana@gmail.com",
+    "gender": "Female",
+    "university": "NSU"
+  },
+  {
+    "id": 3,
+    "first_name": "Joy",
+    "last_name": "Mighty",
+    "email": "joy@gmail.com",
+    "gender": "Male",
+    "university": "RVSCET"
+  },
+  {
+    "id": 4,
+    "first_name": "Raj",
+    "last_name": "Gaurav",
+    "email": "raj@gmail.com",
+    "gender": "Male",
+    "university": "RVSCET"
+  },
+  {
+    "id": 5,
+    "first_name": "Aman",
+    "last_name": "Sahu",
+    "email": "aman@gmail.com",
+    "gender": "Male",
+    "university": "NSU"
+  },
+  {
+    "id": 6,
+    "first_name": "Pawan",
+    "last_name": "Sahu",
+    "email": "pawansahu@gmail.com",
+    "gender": "Male",
+    "university": "KMPM"
+  },
+  {
+    "id": 7,
+    "first_name": "Vikash",
+    "last_name": "Singh",
+    "email": "vikash@gmail.com",
+    "gender": "Male",
+    "university": "KMPM"
+  },
+  {
+    "id": 8,
+    "first_name": "Prince",
+    "last_name": "Rajak",
+    "email": "prince@gmail.com",
+    "gender": "Male",
+    "university": "JCC"
+  },
+  {
+    "id": 9,
+    "first_name": "Yashwant",
+    "last_name": "Pradhan",
+    "email": "yashwant@gmail.com",
+    "gender": "Male",
+    "university": "RVSCET"
+  },
+  {
+    "id": 10,
+    "first_name": "Suraj",
+    "last_name": "Swarnkar",
+    "email": "Suraj@gmail.com",
+    "gender": "Male",
+    "university": "RVSCET"
+  }
+]
