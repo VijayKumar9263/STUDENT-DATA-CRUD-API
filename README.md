@@ -1,4 +1,4 @@
-# Project Title: Student Data CRUD API
+# Student Data CRUD API
 
 This project demonstrates a CRUD (Create, Read, Update, Delete) application for managing student data using a custom API built with Node.js and a React.js frontend. The API stores data in a JSON file, allowing operations like adding new students, editing existing ones, and deleting students directly from the UI.
 
